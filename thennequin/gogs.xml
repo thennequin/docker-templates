@@ -10,7 +10,7 @@
 		[b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]
 		[b]10080[/b] Standard HTTP Port [br]
 		[b]10022[/b] Standard HTTPS Port [br]
-		[b]/data[/b]Storing Configuration and the data folder (git repositories and Gogs config)[br]
+		[b]/data[/b] Storing Configuration and the data folder (git repositories and Gogs config)
 	</Description>
 	<Project>https://gogs.io/</Project>
 	<Registry>https://hub.docker.com/r/gogs/gogs/</Registry>
